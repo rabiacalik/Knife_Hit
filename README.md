@@ -5,6 +5,6 @@ You can play the game from this link -->
 
 The images used in the game belong to me.I created the images using Krita.
 
-[My Image](Assets/Sprites/knife_hit_clone-SampleScene.png)
-![alt text](Assets/Sprites/knife_hit_clone-SampleScene.png)
-<img align="right" alt="pixelart" width="400" src=Assets/Sprites/knife_hit_clone-SampleScene.png>
+<img align="right" alt="pixelart" width="400" src=https://raw.githubusercontent.com/rabiacalik/Knife_Hit/main/Assets/Sprites/s2.png>
+<img align="left" alt="pixelart" width="400" src=https://raw.githubusercontent.com/rabiacalik/Knife_Hit/main/Assets/Sprites/s1.png>
+
